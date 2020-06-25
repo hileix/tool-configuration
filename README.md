@@ -2,7 +2,9 @@
 
 vim, tmux, iterm2 configuration.
 
-```shell
+- 配置 .vimrc
 
+```shell
+bash scripts/set-
 
 ```
